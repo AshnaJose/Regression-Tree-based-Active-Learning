@@ -1,1 +1,7 @@
 This file contains the codes used to generate the learning curves for all datasets, for passive sampling, different model-free and model-based active learning methods, and our approach.
+
+tree.py corresponds to RT-AL using random sampling as the query criteria in the leaves
+
+tree_diversity.py corresponds to RT-AL using diversity-based query criteria in the leaves
+
+tree_representativity.py corresponds to RT-AL using representativity-based query criteria in the leaves
