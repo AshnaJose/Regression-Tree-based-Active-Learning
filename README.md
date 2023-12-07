@@ -9,3 +9,4 @@ tree.py corresponds to RT-AL using random sampling as the query criteria in the 
 tree_diversity.py corresponds to RT-AL using diversity-based query criteria in the leaves
 
 tree_representativity.py corresponds to RT-AL using representativity-based query criteria in the leaves
+
